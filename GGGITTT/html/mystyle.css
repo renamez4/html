@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+h1,h2,h3 {
+    color: rebeccapurple;
+    margin-left: 20px;
+}
+h4{
+    color: tan
+}
